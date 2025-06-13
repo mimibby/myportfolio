@@ -661,11 +661,10 @@ footer {
 
   .nav-links {
     display: none;
-    flex-direction: column;
+    flex-direction: row;
     width: 100%;
     position: absolute;
     top: 50px;
-    /* bottom: 10px; */
     left: 0;
     background-color: #1A1A2E;
     padding: 10px 0;
@@ -675,10 +674,11 @@ footer {
     display: flex;
   }
   .nav-links a {
-    padding: 10px;
-    /* padding-left: 300px; */
+    padding: 10px; 
     margin: 0;
-    font-size: 16px;
+    font-size: 14px;
+    width: 100%;
+    padding-inline: 5px;
     text-align: center;
   }
   .nav-links a:hover {
