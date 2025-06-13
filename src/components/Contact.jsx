@@ -6,7 +6,7 @@ import LinkedinIcon from '../components/Linkedin-icon.png'
 import FacebookIcon from '../components/Facebook-icon.png'
 import TiktokIcon from '../components/Tiktok-icon.png'
 import EmailIcon from '../components/Email-icon.png'
-import WhatsappIcon from '../components/Whatsapp-icon.png'
+import WhatsappIcon from '../components/whatsapp-icon.png'
 import '../App.css';
 
 
