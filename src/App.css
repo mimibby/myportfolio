@@ -665,7 +665,7 @@ footer {
     width: 100%;
     position: absolute;
     top: 50px;
-    bottom: 10px;
+    /* bottom: 10px; */
     left: 0;
     background-color: #1A1A2E;
     padding: 10px 0;
@@ -676,16 +676,16 @@ footer {
   }
   .nav-links a {
     padding: 10px;
-    padding-left: 300px;
+    /* padding-left: 300px; */
     margin: 0;
     font-size: 16px;
-    /* text-align: center; */
+    text-align: center;
   }
-  /* .nav-links a:hover {
+  .nav-links a:hover {
     text-decoration: none;
     background-color: #FF2E63;
     color: white;
-  } */
+  }
 
   /* nav a {
     font-size: 12px;
