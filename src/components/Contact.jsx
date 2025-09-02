@@ -107,7 +107,7 @@ const Contact = () => {
           <img src={GithubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://www.linkedin.com/in/miracle-chinazam-643027380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
           target="_blank"
           rel="noopener noreferrer"
           className="social-icon"
@@ -123,7 +123,7 @@ const Contact = () => {
           <img src={FacebookIcon} alt="Facebook" />
         </a>
         <a
-          href="https://tiktok.com/@yourusername"
+          href="https://tiktok.com/"
           target="_blank"
           rel="noopener noreferrer"
           className="social-icon"

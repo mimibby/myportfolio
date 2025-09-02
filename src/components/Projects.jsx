@@ -7,7 +7,7 @@ const Projects = () => {
       id: 1,
       src: '/images/kit8.png',
       alt: "Mimi's Kitchen Kouture",
-      stack: ['HTML', 'React.Js', 'CSS'],
+      stack: ['HTML', 'CSS', 'JavaScript'],
       linkDemo: 'https://kitchen-kouture.vercel.app/',
       linkCode: 'https://github.com/mimibby/kitchen-kouture'
     },
@@ -27,14 +27,14 @@ const Projects = () => {
       linkDemo: 'https://food-app-one-chi.vercel.app/',
       linkCode: 'https://github.com/mimibby/food-app'
     },
-    // {
-    //   id: 4,
-    //   src: '/images/quiz.jpg',
-    //   alt: 'Quiz Game',
-    //   stack: ['HTML', 'CSS', 'JavaScript' ],
-    //   linkDemo: 'https://quiz-game-mu-jade.vercel.app/',
-    //   linkCode: 'https://github.com/DorisAnioke/quiz-game/'
-    // },
+    {
+      id: 4,
+      src: '/images/shopsphere.png',
+      alt: 'ShopSphere',
+      stack: ['HTML', 'CSS', 'JavaScript', 'Django' ],
+      linkDemo: 'https://shopsphere-ly5a.onrender.com',
+      linkCode: 'https://github.com/mimibby/shopsphere/'
+    },
     // {
     //   id: 5,
     //   src: '/images/admin-dashboard.jpg',

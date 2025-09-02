@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../assets/AgitaMiracle.pdf';
+import resume from '../assets/My Resume.pdf';
 
 const Resume = () => {
   return (
