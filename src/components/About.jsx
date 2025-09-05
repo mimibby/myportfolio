@@ -11,7 +11,7 @@ const About = () => {
 
           <div>
              <h1>HI, I AM MIRACLE CHINAZAM AGITA</h1>
-             <h3>A FULL STACK WEB DEVELOPER</h3>
+             <h3>A PYTHON WEB DEVELOPER</h3>
           </div>
 
         </div>
@@ -19,7 +19,7 @@ const About = () => {
           <div className="flex2">
               <h2>ABOUT ME</h2>
               <br />
-              <p>I'm a dedicated, skilled and enthusiastic Full Stack Developer with expertise in both front-end and back-end development.<br />
+              <p>I'm a dedicated, skilled and enthusiastic Python Web Developer with expertise in both front-end and back-end development.<br />
               Proficient in Javascript, React, Python, and Django.</p>
 
               <p>I have strong passion for building scalabe, high performance web applications. I am committed to writing clean, <br />
