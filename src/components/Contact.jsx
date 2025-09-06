@@ -107,7 +107,7 @@ const Contact = () => {
           <img src={GithubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://www.linkedin.com/in/miracle-chinazam-643027380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+          href="https://www.linkedin.com/in/miracle-chinazam-a2b923349"
           target="_blank"
           rel="noopener noreferrer"
           className="social-icon"
